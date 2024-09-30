@@ -1,2 +1,2 @@
 # cyber-sec-blog
-A static website for a fictional cyber security blog
+A static website design for a fictional cyber security blog
